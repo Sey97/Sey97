@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sey97
+- 👋 Hi, I’m Seyram
 - 👀 I’m interested in data science and web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
